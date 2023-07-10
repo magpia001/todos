@@ -2,8 +2,9 @@
 simple todo
 fastAPI를 활용한 DB CRUD
 명령 실행 : 
-  - app 폴더로 이동
   - uvicorn main:app --reload
+  또는
+  - python app_start.py
 """
 # main.py
 
