@@ -32,9 +32,9 @@ python app_start.py
 ## todos 클라이언트 테서트
 
 ```
-### 앱 실행
+[앱 실행]
 http://localhost:8000
 
-### 스웨거
+[스웨거]
 http://localhost:8000/docs
 ```
